@@ -1,0 +1,15 @@
+{
+    "q1": {
+        "text": "What's the capital of France?",
+        "choices": [
+            "Paris",
+            "Lyon",
+            "Bordeaux",
+            "Marseilles"
+        ],
+        "hints": [{
+            "type": "text",
+            "text": "It's Paris"
+        }]
+    }
+}
